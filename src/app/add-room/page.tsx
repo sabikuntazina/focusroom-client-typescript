@@ -10,6 +10,8 @@ import { useRouter } from "next/navigation";
 //   description: "Find Your Perfect Focus Zone",
 // };
 
+
+// added a room 
 const amenitiesList = [
   "Whiteboard",
   "Projector",
