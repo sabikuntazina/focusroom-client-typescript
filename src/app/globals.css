@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "@heroui/styles";
+@plugin "daisyui";
+
+.textColor{
+ color:#da9e38,
+}
+.bgColor1{
+  background-color: #da9e38,;
+}
+.bgColor2{
+  background-color: #1e1711;
+}
