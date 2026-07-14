@@ -18,6 +18,11 @@ const links = (
         Rooms
       </li>
     </NavLink>
+    <NavLink href={"/availableroom"}>
+      <li className="rounded-2xl py-3 text-base text-gray-200 hover:bg-[#2b1a11] hover:text-[#da9e38] transition-all duration-300">
+        Available Rooms
+      </li>
+    </NavLink>
   </>
 );
 
