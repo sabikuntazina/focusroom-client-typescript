@@ -59,10 +59,10 @@ const Footer = () => {
 
           <li>
             <Link
-              href="/about"
+              href="/availableroom"
               className="hover:text-[#d89d33] transition duration-300"
             >
-              About Us
+              Availble Rooms
             </Link>
           </li>
 
