@@ -157,6 +157,9 @@ const Navbar = () => {
                 <NavLink href={"/rooms"}>
                   <li>Rooms</li>
                 </NavLink>
+                <NavLink href={"/availableroom"}>
+                  <li>Available Rooms</li>
+                </NavLink>
               </>
             )}
           </ul>
